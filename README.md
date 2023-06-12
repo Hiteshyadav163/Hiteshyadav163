@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Hiteshyadav163
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @Hiteshyadav
+- 👀 I’m Python Developer and interested in Data Science
+- 🌱 Learning never stops♾️
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
